@@ -1,0 +1,173 @@
+#brand-header {
+    height: 65px;
+    background: #00a3e0;
+    top: 30px;
+    z-index: 999;
+}
+#logo {
+    width: auto;
+    height: 42px;
+    position: absolute;
+    left: 0;
+    top: 11px;
+    margin-left: 20%;
+}
+.bImg1 {
+    width: 460px;
+    border-radius: 15px;
+    margin-top: 20%;
+    margin-left: 40%;
+}
+#gowj_ > .bImg2 {
+    width: 300px;
+    border-radius: 15px;
+}
+.bImg2 {
+    position: relative;
+    margin-bottom: 20px;
+    width: 300px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin-top: 24%;
+    margin-left: 50%;
+}
+#cvig_ {
+    position: relative;
+    margin-bottom: 20px;
+    width: 140px;
+    height: 220px;
+    background-color: #005DAA;
+    border-radius: 15px;
+    margin-top: 24%;
+    margin-left: 30%;
+}
+.bImg4{
+    position: relative;
+    margin-bottom: 20px;
+    width: 300px;
+    border-radius: 15px;
+    margin-top: 65%;
+    margin-left: -116%;
+}
+#cvig_ .banner-desc > .banner-text {
+    padding: 12px 18px 15px 18px;
+    color: #ffffff;
+    font-size: 14px;
+    font-family: 'tbc_din_mtavrulimedium';
+    line-height: 16px;
+    white-space: normal !important;
+    word-break: keep-all;
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+    margin-right: 40%;
+}
+.bImg3 {
+    margin: 20px 20px 20px 20px;
+    margin-right: 100%;
+}
+.gadasvla,
+.gadasvla:hover {
+    color: #ffffff;
+    font-family: 'tbc_din_mtavrulimedium';
+    text-decoration: none;
+    margin: 0 19px 0 0;
+}
+.arrow {
+    color: #ffffff;
+    position: absolute;
+    width: 9px;
+    height: 14px;
+    background: url(/tbcpw.portal-public-theme/css/../images/tbc/tooltipArrow.png) no-repeat;
+    left: 0;
+    top: 50%;
+    margin-top: 16%;
+    margin-left: 70%;
+}
+.kursebi {
+    border-spacing: 0px;
+    margin: 30px 0 0 0;
+}
+.kursebi {
+    font-size: 14px;
+    line-height: 16px;
+    color: #fff;
+    margin: 20px;
+    display: inline-block;
+}
+.col mb-2{
+    width: 140px;
+    height: 220px;
+}
+.kursebi {
+    position: relative;
+    behavior: url(https://www.tbcbank.ge/tbcpw.portal-public-theme/js/PIE.htc);
+}
+.kursebi {
+    margin-top: -355%;
+    width: 140px;
+    height: 220px;
+    background: #00aff0;
+    border-radius: 15px;
+    margin-left: -450%;
+}
+.exchangeratessmall-portlet .currency div {
+    float: left;
+    font-size: 14px;
+    color: white;
+}
+.flagRates.USD {
+    background-position: 0 -609px!important;
+}
+.flagRates {
+    display: inline-block;
+    width: 30px;
+    height: 20px;
+    float: none;
+    background: url(/img\flags.png) no-repeat;
+    margin: 0 10px 10px 20px;
+}
+.exchangeratessmall-portlet .currency div {
+    float: left;
+    font-size: 14px;
+    color: white;
+}
+.exchangeratessmall-portlet .currency {
+    float: none;
+    clear: both;
+}
+.USA{
+    width: 30px;
+    height: 20px;
+    margin-right: 20%;
+    margin-top: 10%;
+}
+.Europe{
+    width: 30px;
+    height: 20px;
+    margin-right: 20%;
+}
+.UK{
+    width: 30px;
+    height: 20px;
+    margin-right: 20%;
+}
+.bImg5{
+    margin-left: -595%;
+    width: 300px;
+    border-radius: 15px;
+}
+.bImg6{
+    width: 300px;
+    border-radius: 15px;
+    margin-left: -120%;
+    margin-top: -331%;
+}
+.bImg7{
+    width: 300px;
+    height: 220px;
+    border-radius: 15px;
+    margin-right: -350%;
+    margin-top: -162%;
+}
